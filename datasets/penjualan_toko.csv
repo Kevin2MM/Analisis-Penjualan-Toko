@@ -1,0 +1,21 @@
+,Tanggal,ID_Transaksi,Produk,Kategori,Harga,Jumlah,Kota,Metode_Pembayaran,Diskon_Persen
+0,2026-01-03,TRX001,Mouse,Elektronik,150000,2,Surabaya,QRIS,10
+1,2026-01-04,TRX002,Keyboard,Elektronik,275000,1,Malang,Transfer,0
+2,2026-01-05,TRX003,Buku Tulis,ATK,12000,10,Jember,Tunai,5
+3,2026-01-07,TRX004,Pulpen,ATK,5000,20,Situbondo,Tunai,0
+4,2026-01-08,TRX005,Headset,Elektronik,350000,1,Surabaya,QRIS,15
+5,2026-01-09,TRX006,Kursi,Furniture,750000,1,Malang,Transfer,5
+6,2026-01-10,TRX007,Meja,Furniture,1200000,1,Jember,Transfer,10
+7,2026-01-11,TRX008,Lampu,Rumah Tangga,85000,3,Situbondo,QRIS,0
+8,2026-01-12,TRX009,Botol Minum,Rumah Tangga,45000,4,Surabaya,E-Wallet,20
+9,2026-01-13,TRX010,Flashdisk,Elektronik,95000,5,Malang,QRIS,5
+10,2026-01-14,TRX011,Kertas A4,ATK,65000,3,Jember,Transfer,0
+11,2026-01-15,TRX012,Rak Buku,Furniture,900000,1,Situbondo,E-Wallet,10
+12,2026-01-16,TRX013,Kabel USB,Elektronik,40000,6,Surabaya,Tunai,0
+13,2026-01-17,TRX014,Sapu,Rumah Tangga,30000,5,Malang,Tunai,5
+14,2026-01-18,TRX015,Monitor,Elektronik,1800000,1,Jember,Transfer,8
+15,2026-01-19,TRX016,Notebook,ATK,18000,8,Situbondo,QRIS,0
+16,2026-01-20,TRX017,Lemari,Furniture,1500000,1,Surabaya,Transfer,12
+17,2026-01-21,TRX018,Gelas,Rumah Tangga,25000,12,Malang,E-Wallet,0
+18,2026-01-22,TRX019,Speaker,Elektronik,450000,2,Jember,QRIS,10
+19,2026-01-23,TRX020,Penggaris,ATK,7000,15,Situbondo,Tunai,0
