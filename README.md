@@ -24,7 +24,9 @@ serta memberikan rekomendasi hasil analisis data.
 
 ### Pendapatan Bersih per Kategori
 
-![Pendapatan per Kategori](images/bar_kategori.png)
+<p align="center">
+  <img src="images/bar_kategori.png" width="650">
+</p>
 
 Kategori Elektronik dan Furniture memberikan pendapatan bersih terbesar.
 
